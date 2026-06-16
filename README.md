@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Amayu%20Kaba&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amayukf&theme=onedark&no-frame=true&column=4" alt="Trophies" /></a>
-</p>
-
 <h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Based in Ethiopia</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amayukf&theme=dracula&no-frame=true&column=4" alt="Trophies" /></a>
+</p>
 
 ---
 
@@ -39,7 +39,12 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amayukf&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+### 📈 Analytics & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amayukf&show_icons=true&theme=dracula&rank_icon=github" alt="Amayu's GitHub stats" />
