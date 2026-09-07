@@ -8,7 +8,7 @@ Information Technology student who builds web & mobile apps end-to-end — React
 
 ### ⚡ Quick Overview
 
-- 🔭 **Currently working on**: Ethio Scam Shield, Tegagn & Woliso Blood Management System
+- 🔭 **Currently working on**: Mobile and Web apps
 - 🌱 **Currently learning**: Advanced backend architecture & system design
 - 💬 **Ask me about**: React, TypeScript, Next.js, Flutter, Dart, Python & FastAPI
 - 📫 **Reach me**: [ameyukeba@gmail.com](mailto:ameyukeba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ameyu-keba)
