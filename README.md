@@ -61,31 +61,6 @@ Information Technology student who builds web & mobile apps end-to-end — React
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amayukf&layout=compact&theme=react&hide_border=true)
 
----
-
-### 🚀 Featured Projects
-
-#### 🛒 [GiftyTech Ethiopia](https://github.com/amayukf/gifty-tech)
-> Production E-Commerce Platform — Built for high-conversion retail with cinematic dark UI.
-- **Tech**: React, TypeScript, Vite, Tailwind CSS, Framer Motion
-- **Links**: [GitHub Repository](https://github.com/amayukf/gifty-tech) · [Live Demo](https://gifty-tech.vercel.app)
-
-#### 🩸 [Woliso Blood Management](https://github.com/amayukf/2blood-donation-management-system)
-> Full-Stack Healthcare Dispatch Platform — Django REST backend with React 19 SPA.
-- **Tech**: React 19, Django REST, Python, JWT, Axios
-- **Links**: [GitHub Repository](https://github.com/amayukf/2blood-donation-management-system) · [Live Demo](https://blood-donation-frontend-rxfc.onrender.com/)
-
-#### 🎓 [EduHub LMS Platform](https://github.com/amayukf/eduhub)
-> Cloud Learning Management System — Supabase BaaS with multi-role user workflows.
-- **Tech**: React, TypeScript, Supabase, PostgreSQL, Zustand
-- **Links**: [GitHub Repository](https://github.com/amayukf/eduhub) · [Live Demo](https://eduhub-mocha.vercel.app)
-
-#### 🧠 [NeuroUI Generator](https://github.com/amayukf/NeuroUI)
-> AI Component Synthesizer — Scaffolds deployable React UI components from natural language.
-- **Tech**: Next.js 14, TypeScript, Sandpack, Monaco Editor
-- **Links**: [GitHub Repository](https://github.com/amayukf/NeuroUI) · [Live Demo](https://neuroui.onrender.com)
-
----
 
 ### 📬 Connect With Me
 
